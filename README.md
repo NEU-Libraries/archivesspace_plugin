@@ -18,3 +18,4 @@ Install instructions
   ```
   find the `AppConfig[:plugins]` line and add the plugin `nu_archives`
   ie. `AppConfig[:plugins] = [nu_archives]`
+  and make sure its uncommented too
